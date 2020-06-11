@@ -7,3 +7,7 @@ To collect the shot data, see the README for my shot_map repository. Compile all
 </p>
 
 
+<p align="center">
+  <img width="600" height="416" src="https://user-images.githubusercontent.com/57690237/84333494-8929a880-ab55-11ea-93a1-4e1fadbbd183.png">
+</p>
+
